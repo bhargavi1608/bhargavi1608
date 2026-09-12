@@ -7,18 +7,6 @@
 Building intelligent and practical applications with
 Java, Spring Boot, React & AI 🚀
 
-<p>
-  <a href="https://github.com/bhargavi1608">
-    <img src="https://img.shields.io/badge/GitHub-bhargavi1608-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pulloju-bhargavi">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhargavi-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:pullojubhargavi211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 </div>
 
 ---
