@@ -217,7 +217,7 @@ of B.Tech Computer Science and Engineering.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhargavi1608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhargavi1608&show_icons=true&theme=tokyonight" />
 
 </div>
 
@@ -237,7 +237,9 @@ of B.Tech Computer Science and Engineering.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1608&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/bhargavi1608">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1608&layout=compact&langs_count=6&theme=tokyonight" />
+</a>
 
 </div>
 
