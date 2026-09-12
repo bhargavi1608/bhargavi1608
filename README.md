@@ -213,33 +213,11 @@ of B.Tech Computer Science and Engineering.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhargavi1608&show_icons=true&theme=tokyonight" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=bhargavi1608&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<a href="https://github.com/bhargavi1608">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1608&layout=compact&langs_count=6&theme=tokyonight" />
-</a>
 
 </div>
 
